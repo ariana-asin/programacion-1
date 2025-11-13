@@ -1,8 +1,0 @@
-Nombre: shshs
-Edad: 20
-Promedio: 8
-----------------------------
-Nombre: alejandro
-Edad: 13
-Promedio: 6
-----------------------------
